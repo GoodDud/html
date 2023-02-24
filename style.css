@@ -1,0 +1,28 @@
+table {
+  color: yellow;
+  border-radius:  8px;
+  border: 2px solid red;
+  }
+ [href="#ideveloper"] {
+     color:red;
+   }
+   [class="privet"] {
+     color:purple;
+   }
+    #ideveloper{
+      font-weight: bold;
+    }
+    .list>li{
+      color: blue;
+    }
+    .font-size {
+      font-size:18px;
+    }
+
+    .font-size-md.color-red {
+      color:red;
+    }
+
+    .font-size-md.color-gray {
+      color:gray;
+    }
